@@ -11,6 +11,10 @@ from Conta import Conta
 c1 = Cliente("Muliro","9977070-7070")
 conta = Conta(c1.nome,3232,0)
 
+conta.deposita(100)
+conta.saque(50)
+conta.extrato()
+
 print (c1)
 print(c1.nome, " e ", c1.telefone)
 print(conta.titular, " Numero: ", conta.numero, "Saldo: ", conta.saldo)

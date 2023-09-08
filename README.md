@@ -1,5 +1,5 @@
 # Orientação a Objetos com Python
-Loja virtual criada a partir do curso "Orientação a Objetos com Python" da Fundação Bradesco
+curso de Orientação a Objetos com Python da Fundação Bradesco
 
 ****
 08/09/2023
@@ -7,7 +7,7 @@ Loja virtual criada a partir do curso "Orientação a Objetos com Python" da Fun
 
 Classes:
 - Referente a caracteres, seguir o mesmo padrão de variaveis e objetos.
-- Semrpe iniciar as classes com caracteres maiúsculos, inclusive as iniciais de nomes compostos:
+- Sempre iniciar as classes com caracteres maiúsculos, inclusive as iniciais de nomes compostos:
 - Exemplo MinhaClasse()
 
 Variaveis e/ou Objetos:
