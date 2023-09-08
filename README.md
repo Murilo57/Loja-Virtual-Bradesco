@@ -1,8 +1,9 @@
 # Loja-Virtual-Bradesco
 Loja virtual criada a partir do curso "Orientação a Objetos com Python" da Fundação Bradesco
 
+****
 08/09/2023
-*Definindo Nomenclatura para Elementos de um Projeto*
+**Definindo Nomenclatura para Elementos de um Projeto**
 
 Classes:
 - Referente a caracteres, seguir o mesmo padrão de variaveis e objetos.
@@ -21,4 +22,19 @@ Pacotes, Módulos e Métodos:
 - Utilizar nomes pequenos.
 - Utilizar semrpe caracteres minúsculos.
 - Utilizar o underline para unir nomes compostos.
+
+**Declaração dos Membros da Classe**
+
+Atributos (Propriedades):
+- Os atributos armazenam as caracteristicas de uma classe.
+- Os atributos são as declarações de variaveis da classe.
+
+Métodos:
+- São ações da classe, suas funções.
+- Representam os estados e ações dos objetos quando instanciados.
+
+**Método Construtor**
+
+- É definido de forma implicita ou explicita por todas as classes, é utilizado para construir o objeto.
+
 ****
