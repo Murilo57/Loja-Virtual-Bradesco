@@ -5,9 +5,14 @@ class Cliente:
 
     #Para adicionar atributos a uma classe, basta definir o nome do atributo acompanhado da palavra reservada 'self', no método especial
     #Denominado '__init__' do Método Constructor
-        self.nome = n
-        self.telefone = fone
+        self._nome = n
+        self._telefone = fone
 
-        return
+    #método get
+    def get_nome(self):
+        return self._nome
+
+    def set_nome(self, nome):
+        self._nome = nome
 
         #pass #Utiliza-se a palavra reservada 'pass' quando nenhuma estrutura será definida no corpo dessa classe
