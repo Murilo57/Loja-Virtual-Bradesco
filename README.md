@@ -1,4 +1,4 @@
-# Loja-Virtual-Bradesco
+# Orientação a Objetos com Python
 Loja virtual criada a partir do curso "Orientação a Objetos com Python" da Fundação Bradesco
 
 ****
@@ -48,7 +48,7 @@ Métodos:
  Esse concenito garante a integridade das informações e também facilita a utilização das implementações.
 ****
 
-**Métodos de Aceso(Get e Set)
+**Métodos de Aceso(Get e Set)**
 
 - Get: O método Get é utilizado para ler os valroes internos do objeto e envia-los como valor de retorno da função.
     Sintaxe: get_nome do atributo()
@@ -76,4 +76,5 @@ O decorator pode realizar algum processamento com a função decorada e devolê-
 Python traz outra solução para manter os atributos privados, conhecida como Property.
 *A função Property é um Decorator e é utilizada para obter um valor de um atributo.*
 Baicamente, a função Property permite que você declare uma função para obter o valor de um atributo.
+
 ****
