@@ -1,4 +1,4 @@
-# Loja-Virtual-Bradesco
+# Orientação a Objetos com Python
 Loja virtual criada a partir do curso "Orientação a Objetos com Python" da Fundação Bradesco
 
 ****
