@@ -37,4 +37,14 @@ Métodos:
 
 - É definido de forma implicita ou explicita por todas as classes, é utilizado para construir o objeto.
 
+**Em Python não é recomendável criar mais de um Método Construtor para a classe**
+
+
+****
+
+**Encapsulamento de Dados**
+ O conceito de encapsulamento de dados torna-se essencial, pois envolve a protreção dos atributos ou métodos de uma classe.
+
+ Esse concenito garante a integridade das informações e também facilita a utilização das implementações. 
+
 ****
